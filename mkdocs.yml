@@ -1,0 +1,13 @@
+site_name: Working with Mkdocs and Github pages
+theme:
+  name: readthedocs
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+nav:
+  - Home: index.md
+  - Course Topics: course_overview.md
